@@ -1,0 +1,23 @@
+# Archivos generados por .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.swp
+
+# Archivos de configuración local
+appsettings.Development.json
+
+# Base de datos local
+*.db
+*.sqlite
+
+# Archivos de dependencias
+packages/
+node_modules/
+
+# Archivos de IDE
+.idea/
+.vscode/
